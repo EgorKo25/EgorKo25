@@ -26,6 +26,10 @@ I have hands-on experience with microservice architecture, REST APIs, gRPC, SQL 
 
 - PostgreSQL
 - MariaDB
+- SQLite
+- MySQL
+- NebulaGraph
+- Manticore
 - MongoDB
 - ClickHouse
 - Redis / Memcached
@@ -38,6 +42,7 @@ I have hands-on experience with microservice architecture, REST APIs, gRPC, SQL 
 - GitLab CI/CD
 - systemd
 - Nginx / Apache
+- Kerberos
 
 **Message brokers and integration:**
 
